@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **zipporah-codes/zipporah-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Header](./github-header-image.png)
+
+💬 Ask me about AWS cloud engineering and development...
+
+[![My Skills](https://skillicons.dev/icons?i=aws,py,java,postgres,git,github,bitbucket,jenkins,postman,pycharm,vscode)](https://skillicons.dev)
